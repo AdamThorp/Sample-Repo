@@ -10,7 +10,6 @@ print("Hello, ", name)
 
 
 def greet(who_to_greet):
-    test = "test"
     greeting = "Hello, {}".format(who_to_greet)
     return greeting
 
