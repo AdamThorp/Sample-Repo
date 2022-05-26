@@ -1,4 +1,4 @@
-import math
+# Comments for notes
 import os
 import sys
 from os import rename
